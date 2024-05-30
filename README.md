@@ -1,1 +1,1 @@
-# MPPT-P-O-for-a-PV-array
+The project designs a Maximum power point tracking algorithm by using Perturb and Observe algortihm in SIMULINK. It takes the help of SIMULINK blocks to create the logic for P&O. The algorithm is tested for varying insolation.
